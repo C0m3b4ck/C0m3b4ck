@@ -1,9 +1,4 @@
-## Welcome, internet explorer! 👋
-
-- 🔭 I’m currently working on an I2P-integrated AI agent
-- 🌱 I’m currently learning how to make simple and controllable AI agents
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: coding in Python since 2021!
+## Welcome! 👋
 
 My repos:
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool for Windows XP
@@ -16,4 +11,4 @@ My repos:
 - 🧼<a href=https://github.com/C0m3b4ck/Pagewipe-ePub-DRM-Remover>Pagewipe ePub DRM Remover</a>, clean DRM metadata from ePub files
 - 🤓<a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, a simple autocorrect in Python
 - 🗃️<a href=LINKHERE>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive
-- 📚<a href=LINKHERE>Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms
+- 📚<a href=https://github.com/C0m3b4ck/Bookworm>Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms

@@ -1,4 +1,5 @@
 ## Welcome! 👋
+## 🇵🇱 🇵🇱 🇵🇱 <a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md>Polska wersja</a>🇵🇱 🇵🇱 🇵🇱 
 
 ## C++:
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool for Windows XP

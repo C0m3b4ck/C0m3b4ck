@@ -18,6 +18,9 @@
 ## Visual Basic:
 - 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6
 - 💿<a href=https://github.com/C0m3b4ck/Discworm>Discworm</a>, a program for playing .mp3 and .exe files in VB6
+- 🖩<a href=https://github.com/C0m3b4ck/Numworm>Numworm</a>, a calculator
+- 👁️<a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a>, a program to learn Visual Basic
+- 🎙️<a href=https://github.com/C0m3b4ck/COMINGSOON>Voice assistant</a>, COMING SOON!
 
 ## Ludum Dare:
 - 🍮<a href=https://github.com/C0m3b4ck/LDGame58>Scrapfighter</a>, a Ludum Dare 58 game source

@@ -4,6 +4,7 @@
 ## C++:
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool for Windows XP
 - 🎵<a href=https://github.com/C0m3b4ck/MP3-Player-Linux/>MP3 Player Linux</a>, a C++ MP3 player for Linux, made for a technical project
+- ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino
 ## Python:
 - 🧳<a href=https://github.com/C0m3b4ck/Racoon-MC-Modpack-Installer>Racoon MC Modpack Installer</a>, a downloader for Minecraft modpacks
 - 🔡<a href=https://github.com/C0m3b4ck/Digraphy>Digraphy</a>, converts digraphs between languages

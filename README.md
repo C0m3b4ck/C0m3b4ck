@@ -19,7 +19,7 @@
 - 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6
 # Finished Development
 ## C++:
-- 🎵<a href=https://github.com/C0m3b4ck/MP3-Player-Linux/>MP3 Player Linux</a>, a C++ MP3 player for Linux, made for a technical project
+- 🎵<a href=https://github.com/C0m3b4ck/MP3-Player-Linux/>MP3 Player Linux</a>, a C++ MP3 player for Linux
 ## Visual Basic 6:
 - 💿<a href=https://github.com/C0m3b4ck/Discworm>Discworm</a>, a program for playing .mp3 and .exe files in VB6
 ## Python:
@@ -36,7 +36,7 @@
 - 📚<a href=https://github.com/C0m3b4ck/Bookworm>Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms
 ## Visual Basic 6:
 - 🖩<a href=https://github.com/C0m3b4ck/Numworm>Numworm</a>, a calculator
-- 👁️<a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a>, a program to learn Visual Basic (might return to in the future)
+- 👁️<a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a>, a program to learn Visual Basic
 - 🏧<a href=https://github.com/C0m3b4ck/MartATM>MartATM</a>, a legacy-compatible ATM project in Visual Basic 
 
 ## Ludum Dare:

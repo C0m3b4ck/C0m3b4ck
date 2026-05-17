@@ -1,5 +1,8 @@
 ## Welcome! 👋
 ## 🇵🇱 🇵🇱 🇵🇱 <a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md>Polska wersja</a>🇵🇱 🇵🇱 🇵🇱 
+# Arduino
+- 🎹<a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, a project from scrap fax and keyboard parts, using an Arduino
+- ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino
 # For developers
 ## C++:
 - 📦<a href=https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11>wxWidgets 2.8.8 for Windows 95 to Windows 11</a>, precompiled binaries and compilation instructions for Win95-Win11 compatibility
@@ -9,11 +12,10 @@
 # Under Development
 ## C++:
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool for Windows XP
-- ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino
+
 ## FreePascal
 - 📔<a href=https://github.com/C0m3b4ck/BookwormPascal>BookwormPascal</a>, a rewrite of BookwormVB, but in Lazarus FreePascal
-## Python
-- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, a Python AI agent for testing out vulnreabilities, very customizable
+
 # Under Maintenance
 ## Visual Basic 6:
 - 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6
@@ -23,6 +25,8 @@
 ## Visual Basic 6:
 - 💿<a href=https://github.com/C0m3b4ck/Discworm>Discworm</a>, a program for playing .mp3 and .exe files in VB6
 ## Python:
+- 🧠<a href=https://github.com/C0m3b4ck/PythonQuiz>PythonQuiz</a>, a simple Python script that asks different, randomized questions
+- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, a primitive Python AI agent for testing out vulnreabilities, very customizable
 - 🧳<a href=https://github.com/C0m3b4ck/Racoon-MC-Modpack-Installer>Racoon MC Modpack Installer</a>, a downloader for Minecraft modpacks
 - 🔡<a href=https://github.com/C0m3b4ck/Digraphy>Digraphy</a>, converts digraphs between languages
 - 🙂<a href=https://github.com/C0m3b4ck/Random-Name-Generator>Random Name Generator</a>, generates random people's names

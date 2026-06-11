@@ -14,9 +14,6 @@
 ## C++:
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool for Windows XP
 
-## FreePascal
-- 📔<a href=https://github.com/C0m3b4ck/BookwormPascal>BookwormPascal</a>, a rewrite of BookwormVB, but in Lazarus FreePascal
-
 # Under Maintenance
 ## Visual Basic 6:
 - 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6
@@ -37,6 +34,8 @@
 - 🤓<a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, a simple autocorrect in Python
 - 🗃️<a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive
 # Abandoned (broken, no more development)
+## FreePascal
+- 📔<a href=https://github.com/C0m3b4ck/BookwormPascal>BookwormPascal</a>, a rewrite of BookwormVB, but in Lazarus FreePascal
 ## Python:
 - 📚<a href=https://github.com/C0m3b4ck/Bookworm>Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms
 ## Visual Basic 6:

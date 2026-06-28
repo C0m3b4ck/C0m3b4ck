@@ -1,17 +1,20 @@
 ## Witam! 👋
 ## 🌎🌎🌎<a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_EN.md>English Version</a>🌎🌎🌎
+# Arduino
+- 🎹<a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, keyboard muzyczny z części z recyklingu, z użyciem Arduino
+- ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, programy tworzone podczas mojej nauki Arduino
 # Dla deweloperów
 ## C++:
+- 📦<a href=https://github.com/C0m3b4ck/FLTK-1.3.11_Pre-Built>FLTK 1.3.11 dla Windows XP+ x86 i x64, Linux x86 i x64</a>, skompilowane z skryptami budującymi
 - 📦<a href=https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11>wxWidgets 2.8.8 od Windows 95 do 11</a>, skompilowane binarki i instrukcje kompilacji do wsparcia Win95-Win11
 - 📦<a href=https://github.com/C0m3b4ck/InputLib-Win32API/>Biblioteka wejścia klawiszy używająca zapytań Win32API, od Windows 95 do Windows 11</a>, zawiera header i główny plik kodu
 ## Visual Basic 6:
 - 🎙️<a href=https://github.com/C0m3b4ck/Speech>Speech Demo</a>, opcje głos-w-tekst i tekst-w-głos w języku Visual Basic 6 z użyciem Microsoft Speech API
 # Aktywnie Rozwijane
 ## C++:
-- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, narzędzie zabezpieczania dla Windowsa XP
-- ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, krótkie programy, które napisałem podczas nauki Arduino
-## FreePascal
-- 📔<a href=https://github.com/C0m3b4ck/BookwormPascal>BookwormPascal</a>, przepisanie BookwormVB, ale w języku FreePascal
+- 🔍<a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, aplikacja napisany w C++ do zarządzania biblioteką, zrobiony z uwagą na efektywnością, bezpieczeństwem i wsparciem starych systemów
+- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, antywirus napisany w C++ skupiony na Windows XP
+- 🔪<a href=https://github.com/C0m3b4ck/MartSkinChanger>MartSkinchanger</a>, program do zmieniania skórek noży napisany w C++ dla gry Counter-Strike 1.6
 ## Python
 - 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, agent AI w Pythonie skupiony na badaniu bezpieczeństwa
 # Aktywnie Wspierane
@@ -32,6 +35,8 @@
 - 🤓<a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, prosta autokorekta w Pythonie
 - 🗃️<a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, grupa skryptów do masowego pobierania plików, obsługuje Internet Archive
 # Porzucone (błędy w działaniu, brak dalszego rozwoju)
+## FreePascal
+- 📔<a href=https://github.com/C0m3b4ck/BookwormPascal>BookwormPascal</a>, przepisanie BookwormVB, ale w języku FreePascal
 ## Python:
 - 📚<a href=https://github.com/C0m3b4ck/Bookworm>Bookworm</a>, program do inwentaryzacji książek, skompilowany na Windows, ale wspiera inne platformy
 ## Visual Basic 6:

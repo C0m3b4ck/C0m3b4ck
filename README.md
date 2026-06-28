@@ -11,9 +11,10 @@
 - 📦<a href=https://github.com/C0m3b4ck/InputLib-Win32API/>Key input library using Win32API calls for Windows 95 to Windows 11</a>, includes header and main file
 ## Visual Basic 6:
 - 🎙️<a href=https://github.com/C0m3b4ck/Speech>Speech Demo</a>, both TTS and STT in Visual Basic 6 using Microsoft Speech API
-# Under Development
+# My Apps - Under Development
 ## C++:
-- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool for Windows XP
+- 🔍<a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, a C++ library management program, with efficiency, safety and legacy support in mind
+- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool prioritizing Windows XP
 
 # Under Maintenance
 ## Visual Basic 6:

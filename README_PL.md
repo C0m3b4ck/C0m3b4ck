@@ -16,7 +16,7 @@
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, antywirus napisany w C++ skupiony na Windows XP
 - 🔪<a href=https://github.com/C0m3b4ck/MartSkinChanger>MartSkinchanger</a>, program do zmieniania skórek noży napisany w C++ dla gry Counter-Strike 1.6
 ## Python
-- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, agent AI w Pythonie skupiony na badaniu bezpieczeństwa
+- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, agent oparty na modelu językowym w Pythonie skupiony na badaniu bezpieczeństwa
 # Aktywnie Wspierane
 ## Visual Basic 6:
 - 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, implementacja programu Bookworm w języku Visual Basic 6

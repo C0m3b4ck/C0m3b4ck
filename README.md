@@ -11,12 +11,13 @@
 - 📦<a href=https://github.com/C0m3b4ck/InputLib-Win32API/>Key input library using Win32API calls for Windows 95 to Windows 11</a>, includes header and main file
 ## Visual Basic 6:
 - 🎙️<a href=https://github.com/C0m3b4ck/Speech>Speech Demo</a>, both TTS and STT in Visual Basic 6 using Microsoft Speech API
-# My Apps - Under Development
+# My Applications - Under Development
 ## C++:
-- 🔍<a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, a C++ library management program, with efficiency, safety and legacy support in mind
-- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool prioritizing Windows XP
+- 🔍<a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, a C++ library management application, with efficiency, safety and legacy support in mind
+- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, an antivirus in C++, prioritizing Windows XP
 - 🔪<a href=https://github.com/C0m3b4ck/MartSkinChanger>MartSkinchanger</a>, a C++ knife skinchanger for Counter-Strike 1.6
-
+## Python
+- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity
 # Under Maintenance
 ## Visual Basic 6:
 - 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6

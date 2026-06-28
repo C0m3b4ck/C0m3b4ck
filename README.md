@@ -6,6 +6,7 @@
 - ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino
 # For developers
 ## C++:
+- 📦<a href=https://github.com/C0m3b4ck/FLTK-1.3.11_Pre-Built>FLTK 1.3.11 for Windows XP+ x86 and x64, Linux x86 and x64</a>, precompiled with build scripts
 - 📦<a href=https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11>wxWidgets 2.8.8 for Windows 95 to Windows 11</a>, precompiled binaries and compilation instructions for Win95-Win11 compatibility
 - 📦<a href=https://github.com/C0m3b4ck/InputLib-Win32API/>Key input library using Win32API calls for Windows 95 to Windows 11</a>, includes header and main file
 ## Visual Basic 6:

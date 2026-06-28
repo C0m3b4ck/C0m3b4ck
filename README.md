@@ -1,5 +1,5 @@
 ## Welcome! 👋
-## 🇵🇱 🇵🇱 🇵🇱 <a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md>Polska wersja</a>🇵🇱 🇵🇱 🇵🇱 
+## 🇵🇱 🇵🇱 🇵🇱 <a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md>Przeczytaj po polsku!</a>🇵🇱 🇵🇱 🇵🇱 
 # Unlisted video links <a href=https://github.com/C0m3b4ck/PrinterFixer-UnlistedVideos>here</a>
 # Arduino
 - 🎹<a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, a project from scrap fax and keyboard parts, using an Arduino

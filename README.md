@@ -15,6 +15,7 @@
 ## C++:
 - 🔍<a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, a C++ library management program, with efficiency, safety and legacy support in mind
 - 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, a security tool prioritizing Windows XP
+- 🔪<a href=https://github.com/C0m3b4ck/MartSkinChanger>MartSkinchanger</a>, a C++ knife skinchanger for Counter-Strike 1.6
 
 # Under Maintenance
 ## Visual Basic 6:

@@ -13,7 +13,7 @@
 - ⚡ <a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino  
 
 ## PCBs and KiCAD
-- 🪛 <a href=https://github.com/C0m3b4ck/C0m3b4ck-Models>My Models for KiCAD</a>  
+- 🪛 <a href=https://github.com/C0m3b4ck/C0m3b4ck-KiCAD>My Models for KiCAD</a>  
 - 🐁 <a href=https://github.com/C0m3b4ck/XM102K-Mouse/>XM120K Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the XM102K PCB  
 
 ---

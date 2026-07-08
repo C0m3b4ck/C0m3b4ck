@@ -1,54 +1,86 @@
 ## Welcome! 👋
-## 🇵🇱 🇵🇱 🇵🇱 <a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md>Przeczytaj po polsku!</a>🇵🇱 🇵🇱 🇵🇱 
-# Unlisted video links <a href=https://github.com/C0m3b4ck/PrinterFixer-UnlistedVideos>here</a>
-# -----> Electronics
-## Arduino
-- 🎹<a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, a project from scrap fax and keyboard parts, using an Arduino
-- ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino
-## PCBs and KiCAD
-- 🪛<a href=https://github.com/C0m3b4ck/C0m3b4ck-Models>My Models for KiCAD</a>
-- 🐁<a href=https://github.com/C0m3b4ck/XM102K-Mouse/>XM120K Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the XM102K PCB 
-# ----> For developers
-## C++:
-- 📦<a href=https://github.com/C0m3b4ck/FLTK-1.3.11_Pre-Built>FLTK 1.3.11 for Windows XP+ x86 and x64, Linux x86 and x64</a>, precompiled with build scripts
-- 📦<a href=https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11>wxWidgets 2.8.8 for Windows 95 to Windows 11</a>, precompiled binaries and compilation instructions for Win95-Win11 compatibility
-- 📦<a href=https://github.com/C0m3b4ck/InputLib-Win32API/>Key input library using Win32API calls for Windows 95 to Windows 11</a>, includes header and main file
-## Ludum Dare:
-- 🍮<a href=https://github.com/C0m3b4ck/LDGame58>Scrapfighter</a>, a Ludum Dare 58 game source
-## Visual Basic 6:
-- 🎙️<a href=https://github.com/C0m3b4ck/Speech>Speech Demo</a>, both TTS and STT in Visual Basic 6 using Microsoft Speech API
-# ---> ML and agents
-## Python
-- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, a primitive Python AI agent for testing out vulnreabilities, very customizable
-- 🤖<a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity
-# --> Desktop applications
-## C++:
-- 🔍<a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, a C++ library management application, with efficiency, safety and legacy support in mind
-- 🛡️<a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, an antivirus in C++, prioritizing Windows XP
-- 🔪<a href=https://github.com/C0m3b4ck/MartSkinChanger>MartSkinchanger</a>, a C++ knife skinchanger for Counter-Strike 1.6
-## Visual Basic 6:
-- 📘<a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6
-- 💿<a href=https://github.com/C0m3b4ck/Discworm>Discworm</a>, a program for playing .mp3 and .exe files in VB6
-## !!! Abandoned !!!
-### FreePascal
-- 📔<s><a href="https://github.com/C0m3b4ck/BookwormPascal">BookwormPascal</a>, a rewrite of BookwormVB, but in Lazarus FreePascal.</s>
-### Python:
-- 📚<s><a href="https://github.com/C0m3b4ck/Bookworm">Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms.</s>
-### Visual Basic 6:
-- 🖩<s><a href=https://github.com/C0m3b4ck/Numworm>Numworm</a></s>, a calculator
-- 👁️<s><a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a></s>, a program to learn Visual Basic
-- 🏧<s><a href=https://github.com/C0m3b4ck/MartATM>MartATM</a></s>, a legacy-compatible ATM project in Visual Basic 
-# -> Scripts and CLI apps
-## C++:
-- 🎵<a href=https://github.com/C0m3b4ck/MP3-Player-Linux/>MP3 Player Linux</a>, a C++ MP3 player for Linux
-## Python:
-- 🧠<a href=https://github.com/C0m3b4ck/PythonQuiz>PythonQuiz</a>, a simple Python script that asks different, randomized questions
-- 🧳<a href=https://github.com/C0m3b4ck/Racoon-MC-Modpack-Installer>Racoon MC Modpack Installer</a>, a downloader for Minecraft modpacks
-- 🔡<a href=https://github.com/C0m3b4ck/Digraphy>Digraphy</a>, converts digraphs between languages
-- 🙂<a href=https://github.com/C0m3b4ck/Random-Name-Generator>Random Name Generator</a>, generates random people's names
-- 🎮<a href=https://github.com/C0m3b4ck/Whisk-Keyboard-To-Controller-Linux>Whisk Keyboard-To-Controller Linux</a>, converts keyboard and mouse presses into controller mappings
-- ⌨️<a href=https://github.com/C0m3b4ck/Keydash>Keydash</a>, an offline version of TypeRacer
-- 🧼<a href=https://github.com/C0m3b4ck/Pagewipe-ePub-DRM-Remover>Pagewipe ePub DRM Remover</a>, clean DRM metadata from ePub files
-- 🤓<a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, a simple autocorrect in Python
-- 🗃️<a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive
 
+## 🇵🇱 🇵🇱 🇵🇱 <a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md>Przeczytaj po polsku!</a> 🇵🇱 🇵🇱 🇵🇱 
+
+# Unlisted video links <a href=https://github.com/C0m3b4ck/PrinterFixer-UnlistedVideos>here</a>
+
+---
+
+# -----> Electronics
+
+## Arduino
+- 🎹 <a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, a project from scrap fax and keyboard parts, using an Arduino  
+- ⚡ <a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino  
+
+## PCBs and KiCAD
+- 🪛 <a href=https://github.com/C0m3b4ck/C0m3b4ck-Models>My Models for KiCAD</a>  
+- 🐁 <a href=https://github.com/C0m3b4ck/XM102K-Mouse/>XM120K Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the XM102K PCB  
+
+---
+
+# ----> For developers
+
+## C++:
+- 📦 <a href=https://github.com/C0m3b4ck/FLTK-1.3.11_Pre-Built>FLTK 1.3.11 for Windows XP+ x86 and x64, Linux x86 and x64</a>, precompiled with build scripts  
+- 📦 <a href=https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11>wxWidgets 2.8.8 for Windows 95 to Windows 11</a>, precompiled binaries and compilation instructions for Win95-Win11 compatibility  
+- 📦 <a href=https://github.com/C0m3b4ck/InputLib-Win32API/>Key input library using Win32API calls for Windows 95 to Windows 11</a>, includes header and main file  
+
+## Ludum Dare:
+- 🍮 <a href=https://github.com/C0m3b4ck/LDGame58>Scrapfighter</a>, a Ludum Dare 58 game source  
+
+## Visual Basic 6:
+- 🎙️ <a href=https://github.com/C0m3b4ck/Speech>Speech Demo</a>, both TTS and STT in Visual Basic 6 using Microsoft Speech API  
+
+---
+
+# ---> ML and agents
+
+## Python
+- 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, a primitive Python AI agent for testing out vulnreabilities, very customizable  
+- 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity  
+
+---
+
+# --> Desktop applications
+
+## C++:
+- 🔍 <a href=https://github.com/C0m3b4ck/ShelfSight>ShelfSight</a>, a C++ library management application, with efficiency, safety and legacy support in mind  
+- 🛡️ <a href=https://github.com/C0m3b4ck/SentinelXP>SentinelXP</a>, an antivirus in C++, prioritizing Windows XP  
+- 🔪 <a href=https://github.com/C0m3b4ck/MartSkinChanger>MartSkinchanger</a>, a C++ knife skinchanger for Counter-Strike 1.6  
+
+## Visual Basic 6:
+- 📘 <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>Bookworm: Visual Basic</a>, an implementation of Bookworm in VB6  
+- 💿 <a href=https://github.com/C0m3b4ck/Discworm>Discworm</a>, a program for playing .mp3 and .exe files in VB6  
+
+---
+
+## !!! Abandoned !!!
+
+### FreePascal
+- 📔 <s><a href="https://github.com/C0m3b4ck/BookwormPascal">BookwormPascal</a>, a rewrite of BookwormVB, but in Lazarus FreePascal.</s>  
+
+### Python:
+- 📚 <s><a href="https://github.com/C0m3b4ck/Bookworm">Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms.</s>  
+
+### Visual Basic 6:
+- 🖩 <s><a href=https://github.com/C0m3b4ck/Numworm>Numworm</a></s>, a calculator  
+- 👁️ <s><a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a></s>, a program to learn Visual Basic  
+- 🏧 <s><a href=https://github.com/C0m3b4ck/MartATM>MartATM</a></s>, a legacy-compatible ATM project in Visual Basic  
+
+---
+
+# -> Scripts and CLI apps
+
+## C++:
+- 🎵 <a href=https://github.com/C0m3b4ck/MP3-Player-Linux/>MP3 Player Linux</a>, a C++ MP3 player for Linux  
+
+## Python:
+- 🧠 <a href=https://github.com/C0m3b4ck/PythonQuiz>PythonQuiz</a>, a simple Python script that asks different, randomized questions  
+- 🧳 <a href=https://github.com/C0m3b4ck/Racoon-MC-Modpack-Installer>Racoon MC Modpack Installer</a>, a downloader for Minecraft modpacks  
+- 🔡 <a href=https://github.com/C0m3b4ck/Digraphy>Digraphy</a>, converts digraphs between languages  
+- 🙂 <a href=https://github.com/C0m3b4ck/Random-Name-Generator>Random Name Generator</a>, generates random people's names  
+- 🎮 <a href=https://github.com/C0m3b4ck/Whisk-Keyboard-To-Controller-Linux>Whisk Keyboard-To-Controller Linux</a>, converts keyboard and mouse presses into controller mappings  
+- ⌨️ <a href=https://github.com/C0m3b4ck/Keydash>Keydash</a>, an offline version of TypeRacer  
+- 🧼 <a href=https://github.com/C0m3b4ck/Pagewipe-ePub-DRM-Remover>Pagewipe ePub DRM Remover</a>, clean DRM metadata from ePub files  
+- 🤓 <a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, a simple autocorrect in Python  
+- 🗃️ <a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive  

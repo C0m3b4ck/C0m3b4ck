@@ -1,5 +1,5 @@
 ## Witam! 👋
-## 🌎🌎🌎<a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_EN.md>English Version</a>🌎🌎🌎
+## 🌎🌎🌎<a href=https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README.md>English Version</a>🌎🌎🌎
 # Arduino
 - 🎹<a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, keyboard muzyczny z części z recyklingu, z użyciem Arduino
 - ⚡<a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, programy tworzone podczas mojej nauki Arduino

@@ -14,7 +14,8 @@
 
 ## PCBs and KiCAD
 - 🪛 <a href=https://github.com/C0m3b4ck/C0m3b4ck-KiCAD>My Models for KiCAD</a>  
-- 🐁 <a href=https://github.com/C0m3b4ck/XM102K-Mouse/>XM120K Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the XM102K PCB  
+- 🐁 <a href=https://github.com/C0m3b4ck/XM102K-Mouse/>XM120K Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the XM102K PCB
+- 🐁 <a href=https://github.com/C0m3b4ck/DazzerBlue-Mouse/>DazzerBlue TRAMYS44940 Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the DazzerBlue TRAMYS44940 PCB
 
 ---
 

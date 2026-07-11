@@ -6,22 +6,16 @@
 
 ## Programming
 
-![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white)
+![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
 
 ## Engineering
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
-
-## Legacy
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows%2095-%23008484.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-%23003399.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Linux
 
@@ -40,10 +34,18 @@
 
 ![Ollama](https://img.shields.io/badge/Ollama-%23D97757.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
-## Misc
+## Game development
 
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot%20engine&logoColor=white)
 
+## Windows 95 - Windows 11
+
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 95](https://img.shields.io/badge/Windows%2095-%23008484.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-%23003399.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white)
+![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </p>
 
 ---

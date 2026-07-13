@@ -64,6 +64,14 @@
 - 🐁 <a href=https://github.com/C0m3b4ck/DazzerBlue-Mouse/>DazzerBlue TRAMYS44940 Mouse PCB KiCAD</a>, my reverse-engineered manual remake of the DazzerBlue TRAMYS44940 PCB
 ---
 
+# ---> ML, models and agents
+
+## Python ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ollama](https://img.shields.io/badge/Ollama-%23D97757.svg?style=for-the-badge&logo=ollama&logoColor=white) ![coqui-TTS 🐸](https://img.shields.io/badge/coqui--TTS%20🐸-%233EA8A8.svg?style=for-the-badge&logo=coqui&logoColor=white)
+- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech>Doc-To-Speech</a>, a simple app for turning documents into high-quality read audio files
+- 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity - version using Ollama and version based on config files 
+
+---
+
 # ----> For developers
 
 ## C++: ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Windows 95](https://img.shields.io/badge/Windows%2095-%23008484.svg?style=for-the-badge&logo=windows&logoColor=white)![Windows XP](https://img.shields.io/badge/Windows%20XP-%23003399.svg?style=for-the-badge&logo=windows&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -76,14 +84,6 @@
 
 ## Visual Basic 6 ![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows&logoColor=white) ![Windows 95](https://img.shields.io/badge/Windows%2095-%23008484.svg?style=for-the-badge&logo=windows&logoColor=white) ![Windows XP](https://img.shields.io/badge/Windows%20XP-%23003399.svg?style=for-the-badge&logo=windows&logoColor=white) 
 - 🎙️ <a href=https://github.com/C0m3b4ck/Speech>Speech Demo</a>, both TTS and STT in Visual Basic 6 using Microsoft Speech API  
-
----
-
-# ---> ML, models and agents
-
-## Python ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ollama](https://img.shields.io/badge/Ollama-%23D97757.svg?style=for-the-badge&logo=ollama&logoColor=white) ![coqui-TTS 🐸](https://img.shields.io/badge/coqui--TTS%20🐸-%233EA8A8.svg?style=for-the-badge&logo=coqui&logoColor=white)
-- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech>Doc-To-Speech</a>, a simple app for turning documents into high-quality read audio files
-- 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity - version using Ollama and version based on config files 
 
 ---
 

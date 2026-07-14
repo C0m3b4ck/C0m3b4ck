@@ -44,7 +44,7 @@
 [![Tortoise](https://img.shields.io/badge/Tortoise%20TTS-%23795548.svg?style=flat-square&logo=tortoise&logoColor=white)](https://github.com/neonbjb/tortoise-tts)
 [![OpenVoice](https://img.shields.io/badge/OpenVoice%20V2-%232196F3.svg?style=flat-square&logo=myshell&logoColor=white)](https://github.com/myshell-ai/OpenVoice) 
 [![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm) 
-[![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.co)
+[![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.computer)
 
 ## Game development
 
@@ -86,7 +86,7 @@
 [![Chatterbox](https://img.shields.io/badge/Chatterbox-%23FF5722.svg?style=flat-square&logo=resemble&logoColor=white)](https://github.com/resemble-ai/chatterbox) 
 [![Tortoise](https://img.shields.io/badge/Tortoise%20TTS-%23795548.svg?style=flat-square&logo=tortoise&logoColor=white)](https://github.com/neonbjb/tortoise-tts)
 [![OpenVoice](https://img.shields.io/badge/OpenVoice%20V2-%232196F3.svg?style=flat-square&logo=myshell&logoColor=white)](https://github.com/myshell-ai/OpenVoice) 
-[![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm) [![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.co)
+[![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm) [![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.computer)
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech>Doc-To-Speech</a>, a simple app for turning documents into high-quality read audio files
 - 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity - version using Ollama and version based on config files 
 

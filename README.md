@@ -88,6 +88,11 @@
 [![OpenVoice](https://img.shields.io/badge/OpenVoice%20V2-%232196F3.svg?style=flat-square&logo=myshell&logoColor=white)](https://github.com/myshell-ai/OpenVoice) 
 [![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm) [![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.computer)
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech>Doc-To-Speech</a>, a simple app for turning documents into high-quality read audio files
+- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-coqui>Doc-To-Speech coqui for Pinokio</a>
+- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-CSM>Doc-To-Speech CSM for Pinokio</a>
+- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-Chatterbox>Doc-To-Speech Chatterbox for Pinokio</a>
+- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-OpenVoice>Doc-To-Speech OpenVoice for Pinokio</a>
+- 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-Tortoise>Doc-To-Speech Tortoise for Pinokio</a>
 - 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity - version using Ollama and version based on config files 
 
 ---

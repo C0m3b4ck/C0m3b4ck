@@ -131,6 +131,7 @@
 - 🎵 <a href=https://github.com/C0m3b4ck/MP3-Player-Linux/>MP3 Player Linux</a>, a C++ MP3 player for Linux  
 
 ## Python ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 👻 <a href=https://github.com/C0m3b4ck/Phantom-Keys-Fix>PhantomKeysFix</a>, a fix for keyboard with duplicate key inputs
 - 🧠 <a href=https://github.com/C0m3b4ck/PythonQuiz>PythonQuiz</a>, a simple Python script that asks different, randomized questions  
 - 🧳 <a href=https://github.com/C0m3b4ck/Racoon-MC-Modpack-Installer>Racoon MC Modpack Installer</a>, a downloader for Minecraft modpacks  
 - 🔡 <a href=https://github.com/C0m3b4ck/Digraphy>Digraphy</a>, converts digraphs between languages  

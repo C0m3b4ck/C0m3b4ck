@@ -29,6 +29,8 @@
 ## Privacy
 
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
+[<img src="badges/i2p.png" alt="I2P" height="28">](https://i2p.net)
+
 
 ## ML
 

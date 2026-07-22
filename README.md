@@ -108,7 +108,8 @@
 [![Chatterbox](https://img.shields.io/badge/Chatterbox-%23FF5722.svg?style=flat-square&logo=resemble&logoColor=white)](https://github.com/resemble-ai/chatterbox)
 [![Tortoise](https://img.shields.io/badge/Tortoise%20TTS-%23795548.svg?style=flat-square&logo=tortoise&logoColor=white)](https://github.com/neonbjb/tortoise-tts)
 [![OpenVoice](https://img.shields.io/badge/OpenVoice%20V2-%232196F3.svg?style=flat-square&logo=myshell&logoColor=white)](https://github.com/myshell-ai/OpenVoice)
-[![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm) [![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.computer)
+[![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm) 
+[![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://pinokio.computer)
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech>Doc-To-Speech</a>, a simple app for turning documents into high-quality read audio files
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-coqui>Doc-To-Speech coqui for Pinokio</a>
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-CSM>Doc-To-Speech CSM for Pinokio</a>
@@ -117,7 +118,7 @@
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-Tortoise>Doc-To-Speech Tortoise for Pinokio</a>
 
 ## Python — STT ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Transcribix](https://img.shields.io/badge/Transcribix-%231565C0.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/Transcribix) [![Transcribix-Pinokio](https://img.shields.io/badge/Transcribix--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Transcribix-Pinokio) [![VideoPolish-er](https://img.shields.io/badge/VideoPolish--er-%234CAF50.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/VideoPolish-er) [![VideoPolish-er-Pinokio](https://img.shields.io/badge/VideoPolish--er--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Pinokio-VideoPolish-er)
-[faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
+[![faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
 [![WhisperX](https://img.shields.io/badge/WhisperX-%231DB954.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/m-bain/whisperX)
 [![stable-ts](https://img.shields.io/badge/stable--ts-%234CAF50.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/jianfch/stable-ts)
 [![Parakeet](https://img.shields.io/badge/Parakeet%20TDT-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NeMo)

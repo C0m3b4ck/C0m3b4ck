@@ -52,6 +52,8 @@
 
 [![Transcribix](https://img.shields.io/badge/Transcribix-%231565C0.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/Transcribix)
 [![Transcribix-Pinokio](https://img.shields.io/badge/Transcribix--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Transcribix-Pinokio)
+[![VideoPolish-er](https://img.shields.io/badge/VideoPolish--er-%234CAF50.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/VideoPolish-er)
+[![VideoPolish-er-Pinokio](https://img.shields.io/badge/VideoPolish--er--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Pinokio-VideoPolish-er)
 [![faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
 [![WhisperX](https://img.shields.io/badge/WhisperX-%231DB954.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/m-bain/whisperX)
 [![stable-ts](https://img.shields.io/badge/stable--ts-%234CAF50.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/jianfch/stable-ts)
@@ -114,8 +116,8 @@
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-OpenVoice>Doc-To-Speech OpenVoice for Pinokio</a>
 - 📖 <a href=https://github.com/C0m3b4ck/DocToSpeech-Tortoise>Doc-To-Speech Tortoise for Pinokio</a>
 
-## Python — STT ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Transcribix](https://img.shields.io/badge/Transcribix-%231565C0.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/Transcribix) [![Transcribix-Pinokio](https://img.shields.io/badge/Transcribix--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Transcribix-Pinokio)
-[![faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
+## Python — STT ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Transcribix](https://img.shields.io/badge/Transcribix-%231565C0.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/Transcribix) [![Transcribix-Pinokio](https://img.shields.io/badge/Transcribix--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Transcribix-Pinokio) [![VideoPolish-er](https://img.shields.io/badge/VideoPolish--er-%234CAF50.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/VideoPolish-er) [![VideoPolish-er-Pinokio](https://img.shields.io/badge/VideoPolish--er--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Pinokio-VideoPolish-er)
+[faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
 [![WhisperX](https://img.shields.io/badge/WhisperX-%231DB954.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/m-bain/whisperX)
 [![stable-ts](https://img.shields.io/badge/stable--ts-%234CAF50.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/jianfch/stable-ts)
 [![Parakeet](https://img.shields.io/badge/Parakeet%20TDT-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NeMo)
@@ -128,6 +130,8 @@
 [![whisper.cpp](https://img.shields.io/badge/whisper.cpp-%23F44336.svg?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ggerganov/whisper.cpp)
 - 🎙️ <a href=https://github.com/C0m3b4ck/Transcribix>Transcribix</a>, offline speech-to-text with 11 local AI models, CLI + Gradio web UI
 - 🎙️ <a href=https://github.com/C0m3b4ck/Transcribix-Pinokio>Transcribix for Pinokio</a>, 1-click install for Transcribix via Pinokio
+- 🎬 <a href=https://github.com/C0m3b4ck/VideoPolish-er>VideoPolish-er</a>, CLI to remove silences, stutters, and verify transcript accuracy
+- 🎬 <a href=https://github.com/C0m3b4ck/Pinokio-VideoPolish-er>VideoPolish-er for Pinokio</a>, 1-click install for VideoPolish-er via Pinokio
 
 ## Agents
 - 🤖 <a href=https://github.com/C0m3b4ck/Vulntest-AI-Agent>Vulntest AI Agent</a>, an AI agent for cybersecurity - version using Ollama and version based on config files

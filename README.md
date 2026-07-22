@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white)
 ![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
-[<img src="badges/szkopul.png" alt="Szkopuł" height="28" width="50">](https://szkopul.edu.pl)
+[<img src="badges/szkopul_badge.png" alt="Szkopuł" height="28">](https://szkopul.edu.pl)
 
 ## Engineering
 
@@ -30,7 +30,7 @@
 ## Privacy
 
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
-[<img src="badges/i2p.png" alt="I2P" height="28" width="120">](https://i2p.net)
+[<img src="badges/i2p_badge.png" alt="I2P" height="28">](https://i2p.net)
 
 
 ## ML

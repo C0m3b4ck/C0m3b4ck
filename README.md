@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white)
 ![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
-[<img src="badges/szkopul.png" alt="Szkopuł" height="28" width="120">](https://szkopul.edu.pl)
+[<img src="badges/szkopul.png" alt="Szkopuł" height="28" width="50">](https://szkopul.edu.pl)
 
 ## Engineering
 

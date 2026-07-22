@@ -1,6 +1,6 @@
 # Witaj! 👋
 
-## 🇺🇸 🇺🇸 🇺🇸 [Read in English!](https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README.md) 🇺🇸 🇺🇸 🇺🇸
+## 🇺🇳 🇺🇳 🇺🇳  [Read in English!](https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README.md) 🇺🇳 🇺🇳 🇺🇳 
 
 <p align="center">
 

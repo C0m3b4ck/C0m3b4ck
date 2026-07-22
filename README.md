@@ -155,9 +155,9 @@
 - 📚 <s><a href="https://github.com/C0m3b4ck/Bookworm">Bookworm</a>, a program for book categorization, precompiled for Windows but with support for all Python-supported platforms.</s>  
 
 ### Visual Basic 6:
-- 🖩 <s><a href=https://github.com/C0m3b4ck/Numworm>Numworm</a></s>, a calculator  
-- 👁️ <s><a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a></s>, a program to learn Visual Basic  
-- 🏧 <s><a href=https://github.com/C0m3b4ck/MartATM>MartATM</a></s>, a legacy-compatible ATM project in Visual Basic  
+- 🖩 <s><a href=https://github.com/C0m3b4ck/Numworm>Numworm</a> a calculator  </s>,
+- 👁️ <s><a href=https://github.com/C0m3b4ck/VBLearn>VBLearn</a>, a program to learn Visual Basic  </s>
+- 🏧 <s><a href=https://github.com/C0m3b4ck/MartATM>MartATM</a>, a legacy-compatible ATM project in Visual Basic </s> 
 
 ---
 

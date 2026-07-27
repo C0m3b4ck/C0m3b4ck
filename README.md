@@ -3,83 +3,14 @@
 ## 🇵🇱 🇵🇱 🇵🇱 [Przeczytaj po polsku!](https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md) 🇵🇱 🇵🇱 🇵🇱
 
 <p align="center">
-
-## Programming
-
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white)
-![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
-[<img src="badges/szkopul_badge.png" alt="Szkopuł" height="28">](https://szkopul.edu.pl)
-
-## Engineering
-
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
-
-## Linux
-
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux%20mint&logoColor=white)
-
-## Privacy
-
-![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
-[<img src="badges/i2p_badge.png" alt="I2P" height="28">](https://i2p.net)
-
-
-## ML — TTS
-
-![Ollama](https://img.shields.io/badge/Ollama-%23D97757.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![coqui-TTS 🐸](https://img.shields.io/badge/coqui--TTS%20🐸-%233EA8A8.svg?style=for-the-badge&logo=coqui&logoColor=white)
-[![Agentic](https://img.shields.io/badge/Agentic-AI-%23FF6B6B.svg?style=for-the-badge&logo=openai&logoColor=white)](agent.md)
-[![XTTS v2](https://img.shields.io/badge/XTTS%20v2-%233EA8A8.svg?style=flat-square&logo=coqui&logoColor=white)](https://github.com/idiap/coqui-ai-TTS)
-[![Bark](https://img.shields.io/badge/Bark-%23F9A825.svg?style=flat-square&logo=suno&logoColor=white)](https://github.com/suno-ai/bark)
-[![VITS](https://img.shields.io/badge/VITS-%237B1FA2.svg?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/jaywalnut310/vits)
-[![YourTTS](https://img.shields.io/badge/YourTTS-%2300897B.svg?style=flat-square&logo=coqui&logoColor=white)](https://github.com/Edresson/YourTTS)
-[![StyleTTS 2](https://img.shields.io/badge/StyleTTS%202-%23E91E63.svg?style=flat-square&logo=style&logoColor=white)](https://github.com/yl4579/StyleTTS2)
-[![Chatterbox](https://img.shields.io/badge/Chatterbox-%23FF5722.svg?style=flat-square&logo=resemble&logoColor=white)](https://github.com/resemble-ai/chatterbox)
-[![Tortoise](https://img.shields.io/badge/Tortoise%20TTS-%23795548.svg?style=flat-square&logo=tortoise&logoColor=white)](https://github.com/neonbjb/tortoise-tts)
-[![OpenVoice](https://img.shields.io/badge/OpenVoice%20V2-%232196F3.svg?style=flat-square&logo=myshell&logoColor=white)](https://github.com/myshell-ai/OpenVoice)
-[![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm)
-
-## ML — STT
-
-[![Transcribix](https://img.shields.io/badge/Transcribix-%231565C0.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/Transcribix)
-[![Transcribix-Pinokio](https://img.shields.io/badge/Transcribix--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Transcribix-Pinokio)
-[![VideoPolish-er](https://img.shields.io/badge/VideoPolish--er-%234CAF50.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/VideoPolish-er)
-[![VideoPolish-er-Pinokio](https://img.shields.io/badge/VideoPolish--er--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Pinokio-VideoPolish-er)
-[![faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
-[![WhisperX](https://img.shields.io/badge/WhisperX-%231DB954.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/m-bain/whisperX)
-[![stable-ts](https://img.shields.io/badge/stable--ts-%234CAF50.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/jianfch/stable-ts)
-[![Parakeet](https://img.shields.io/badge/Parakeet%20TDT-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NeMo)
-[![Canary Qwen](https://img.shields.io/badge/Canary%20Qwen-%23FFB300.svg?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NeMo)
-[![Distil-Whisper](https://img.shields.io/badge/Distil--Whisper-%23FF5722.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/huggingface/distil-whisper)
-[![Moonshine](https://img.shields.io/badge/Moonshine-%2300BCD4.svg?style=flat-square&logo=moon&logoColor=white)](https://github.com/usefulsensors/moonshine)
-[![SenseVoice](https://img.shields.io/badge/SenseVoice-%239C27B0.svg?style=flat-square&logo=aliyun&logoColor=white)](https://github.com/modelscope/FunASR)
-[![Vosk](https://img.shields.io/badge/Vosk-%23607D8B.svg?style=flat-square&logo=kaldi&logoColor=white)](https://github.com/alphacep/vosk-api)
-[![Whisper](https://img.shields.io/badge/Whisper-%232196F3.svg?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/whisper)
-[![whisper.cpp](https://img.shields.io/badge/whisper.cpp-%23F44336.svg?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ggerganov/whisper.cpp)
-
-![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)
-
-## Game development
-
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot%20engine&logoColor=white)
-
-## Windows 95 - Windows 11
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows%2095-%23008484.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-%23003399.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white)
-![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Programming:** ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white) ![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge) [![Szkopuł](https://img.shields.io/badge/Szkopuł-blue.svg?style=for-the-badge)](https://szkopul.edu.pl)
+**Engineering:** ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white) ![FreeCAD](https://img.shields.io/badge/FreeCAD-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
+**Linux:** ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux%20mint&logoColor=white)
+**Privacy:** ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white) [![I2P](https://img.shields.io/badge/I2P-blue.svg?style=for-the-badge)](https://i2p.net)
+**ML — TTS:** ![Ollama](https://img.shields.io/badge/Ollama-%23D97757.svg?style=for-the-badge&logo=ollama&logoColor=white) ![coqui-TTS 🐸](https://img.shields.io/badge/coqui--TTS%20🐸-%233EA8A8.svg?style=for-the-badge&logo=coqui&logoColor=white) [![Agentic](https://img.shields.io/badge/Agentic-AI-%23FF6B6B.svg?style=for-the-badge&logo=openai&logoColor=white)](agent.md) [![XTTS v2](https://img.shields.io/badge/XTTS%20v2-%233EA8A8.svg?style=flat-square&logo=coqui&logoColor=white)](https://github.com/idiap/coqui-ai-TTS) [![Bark](https://img.shields.io/badge/Bark-%23F9A825.svg?style=flat-square&logo=suno&logoColor=white)](https://github.com/suno-ai/bark) [![VITS](https://img.shields.io/badge/VITS-%237B1FA2.svg?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/jaywalnut310/vits) [![YourTTS](https://img.shields.io/badge/YourTTS-%2300897B.svg?style=flat-square&logo=coqui&logoColor=white)](https://github.com/Edresson/YourTTS) [![StyleTTS 2](https://img.shields.io/badge/StyleTTS%202-%23E91E63.svg?style=flat-square&logo=style&logoColor=white)](https://github.com/yl4579/StyleTTS2) [![Chatterbox](https://img.shields.io/badge/Chatterbox-%23FF5722.svg?style=flat-square&logo=resemble&logoColor=white)](https://github.com/resemble-ai/chatterbox) [![Tortoise](https://img.shields.io/badge/Tortoise%20TTS-%23795548.svg?style=flat-square&logo=tortoise&logoColor=white)](https://github.com/neonbjb/tortoise-tts) [![OpenVoice](https://img.shields.io/badge/OpenVoice%20V2-%232196F3.svg?style=flat-square&logo=myshell&logoColor=white)](https://github.com/myshell-ai/OpenVoice) [![Sesame CSM](https://img.shields.io/badge/Sesame%20CSM--1B-%239C27B0.svg?style=flat-square&logo=speech&logoColor=white)](https://github.com/SesameAILabs/csm)
+**ML — STT:** [![Transcribix](https://img.shields.io/badge/Transcribix-%231565C0.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/Transcribix) [![Transcribix-Pinokio](https://img.shields.io/badge/Transcribix--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Transcribix-Pinokio) [![VideoPolish-er](https://img.shields.io/badge/VideoPolish--er-%234CAF50.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/C0m3b4ck/VideoPolish-er) [![VideoPolish-er-Pinokio](https://img.shields.io/badge/VideoPolish--er--Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)](https://github.com/C0m3b4ck/Pinokio-VideoPolish-er) [![faster-whisper](https://img.shields.io/badge/faster--whisper-%23FF6B35.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/SYSTRAN/faster-whisper) [![WhisperX](https://img.shields.io/badge/WhisperX-%231DB954.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/m-bain/whisperX) [![stable-ts](https://img.shields.io/badge/stable--ts-%234CAF50.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/jianfch/stable-ts) [![Parakeet](https://img.shields.io/badge/Parakeet%20TDT-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NeMo) [![Canary Qwen](https://img.shields.io/badge/Canary%20Qwen-%23FFB300.svg?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NeMo) [![Distil-Whisper](https://img.shields.io/badge/Distil--Whisper-%23FF5722.svg?style=flat-square&logo=whisper&logoColor=white)](https://github.com/huggingface/distil-whisper) [![Moonshine](https://img.shields.io/badge/Moonshine-%2300BCD4.svg?style=flat-square&logo=moon&logoColor=white)](https://github.com/usefulsensors/moonshine) [![SenseVoice](https://img.shields.io/badge/SenseVoice-%239C27B0.svg?style=flat-square&logo=aliyun&logoColor=white)](https://github.com/modelscope/FunASR) [![Vosk](https://img.shields.io/badge/Vosk-%23607D8B.svg?style=flat-square&logo=kaldi&logoColor=white)](https://github.com/alphacep/vosk-api) [![Whisper](https://img.shields.io/badge/Whisper-%232196F3.svg?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/whisper) [![whisper.cpp](https://img.shields.io/badge/whisper.cpp-%23F44336.svg?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ggerganov/whisper.cpp) ![Pinokio](https://img.shields.io/badge/Pinokio-%23000000.svg?style=for-the-badge&logo=pinokio&logoColor=white)
+**Game development:** ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot%20engine&logoColor=white)
+**Windows 95 - Windows 11:** ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows&logoColor=white) ![Windows 95](https://img.shields.io/badge/Windows%2095-%23008484.svg?style=for-the-badge&logo=windows&logoColor=white) ![Windows XP](https://img.shields.io/badge/Windows%20XP-%23003399.svg?style=for-the-badge&logo=windows&logoColor=white) ![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white) ![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </p>
 
 ---
@@ -199,4 +130,3 @@
 - 🏧 <s><a href=https://github.com/C0m3b4ck/MartATM>MartATM</a>, a legacy-compatible ATM project in Visual Basic </s> 
 
 ---
-

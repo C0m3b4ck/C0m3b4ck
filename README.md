@@ -118,8 +118,10 @@
 - ⌨️ <a href=https://github.com/C0m3b4ck/Keydash>Keydash</a>, an offline version of TypeRacer  
 - 🧼 <a href=https://github.com/C0m3b4ck/Pagewipe-ePub-DRM-Remover>Pagewipe ePub DRM Remover</a>, clean DRM metadata from ePub files  
 - 🤓 <a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, a simple autocorrect in Python  
-- 🗃️ <a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive  
+- 🗃️ <a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive
 
+# > Competitive Programming ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![Szkopuł](https://img.shields.io/badge/Szkopuł-blue.svg?style=for-the-badge)](https://szkopul.edu.pl)
+- 🏆 <a href=https://github.com/C0m3b4ck/Szkopul-Practice>Szkopul Practice</a>, a bunch of solutions for programming exercises from szkopul.pl
 
 ## !!! Abandoned !!!
 

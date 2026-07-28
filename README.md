@@ -119,6 +119,7 @@
 - 🧼 <a href=https://github.com/C0m3b4ck/Pagewipe-ePub-DRM-Remover>Pagewipe ePub DRM Remover</a>, clean DRM metadata from ePub files  
 - 🤓 <a href=https://github.com/C0m3b4ck/PythonAutocorrect>Python Autocorrect</a>, a simple autocorrect in Python  
 - 🗃️ <a href=https://github.com/C0m3b4ck/Mass-Media-Downloader>Mass Media Downloader</a>, a collection of scripts for mass downloading media from websites, currently supports Internet Archive
+- 🐶 <a href=https://github.com/C0m3b4ck/Woofie-Postman-Magnet-Fetcher>Woofie Postman Magnet Fetcher</a>, a CLI Postman browser for magnet links with i2psnark integration [![I2P](badges/i2p_badge.png)](https://i2p.net)
 
 # > Competitive Programming ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![Szkopuł](badges/szkopul_badge.png)](https://szkopul.edu.pl)
 - 🏆 <a href=https://github.com/C0m3b4ck/Szkopul-Practice>Szkopul Practice</a>, a bunch of solutions for programming exercises from szkopul.pl

@@ -1,4 +1,4 @@
-# Witajcie! 👋
+# Witaj! 👋
 
 **Programowanie:** ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lazarus Pascal](https://img.shields.io/badge/Pascal-%230288D1.svg?style=for-the-badge&logo=lazarus&logoColor=white) ![VB6](https://img.shields.io/badge/Visual_Basic_6-%235C2D91.svg?style=for-the-badge) [![Szkopuł](badges/szkopul_badge.png)](https://szkopul.edu.pl)
 

@@ -23,7 +23,8 @@
 # -----> Electronics 
 
 ## Arduino ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-- 🎹 <a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, a project from scrap fax and keyboard parts, using an Arduino  
+- 🎹 <a href=https://github.com/C0m3b4ck/FaxArduinoKeyboard>Fax Arduino Keyboard</a>, a project from scrap fax and keyboard parts, using an Arduino
+- 🎹 <a href=https://github.com/C0m3b4ck/Faxatronic-Uno-Keyboard>Faxatronic Arduino Keyboard</a>, an upgrade of the Fax Arduino Keyboard with a display for song learning
 - ⚡ <a href=https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments>My Arduino Experiments</a>, a bunch of scripts being made as I am learning Arduino  
 
 ## PCBs and KiCAD ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)![FreeCAD](https://img.shields.io/badge/FreeCAD-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)

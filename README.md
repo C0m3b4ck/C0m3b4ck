@@ -4,16 +4,9 @@ Desktop apps, machine learning tools, and electronics projects for everyday use.
 
 [🇵🇱 Przeczytaj po polsku](https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md)
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)](https://www.kicad.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot+engine&logoColor=white)](https://godotengine.org/)
-
 ---
 
-## Electronics
+## Electronics [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)](https://www.kicad.io/)[![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=flat&logo=freecad&logoColor=white)](https://www.freecad.org/)
 
 - 🎹 [Fax Arduino Keyboard](https://github.com/C0m3b4ck/FaxArduinoKeyboard) - a musical keyboard from scrap fax and keyboard parts, using an Arduino
 - 🎹 [Faxatronic Arduino Keyboard](https://github.com/C0m3b4ck/Faxatronic-Uno-Keyboard) - an upgrade of the Fax Arduino Keyboard with a display for song learning
@@ -27,7 +20,7 @@ Desktop apps, machine learning tools, and electronics projects for everyday use.
 
 ## ML & AI
 
-### Text-to-Speech
+### Text-to-Speech [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)[![Ollama](https://img.shields.io/badge/Ollama-D97757?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)[![coqui-TTS](https://img.shields.io/badge/coqui--TTS-3EA8A8?style=flat&logo=coqui&logoColor=white)](https://github.com/coqui-ai/TTS)
 
 - 📖 [Doc-To-Speech](https://github.com/C0m3b4ck/DocToSpeech) - turn documents into high-quality read audio files
 - 🗣️ [StreamTalker](https://github.com/C0m3b4ck/StreamTalker) - a GUI app using SadTalker that animates a head/bust avatar speaking the reply to your prompt, hosted locally
@@ -40,7 +33,7 @@ Pinokio 1-click installs for each TTS backend:
 [OpenVoice](https://github.com/C0m3b4ck/DocToSpeech-OpenVoice) ·
 [Tortoise](https://github.com/C0m3b4ck/DocToSpeech-Tortoise)
 
-### Speech-to-Text
+### Speech-to-Text [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)[![Whisper](https://img.shields.io/badge/Whisper-2196F3?style=flat&logo=openai&logoColor=white)](https://github.com/openai/whisper)
 
 - 🎙️ [Transcribix](https://github.com/C0m3b4ck/Transcribix) - offline speech-to-text with 11 local AI models, CLI + Gradio web UI
 - 🎬 [VideoPolish-er](https://github.com/C0m3b4ck/VideoPolish-er) - CLI to remove silences, stutters, and verify transcript accuracy
@@ -49,20 +42,20 @@ Pinokio 1-click installs:
 [Transcribix](https://github.com/C0m3b4ck/Transcribix-Pinokio) ·
 [VideoPolish-er](https://github.com/C0m3b4ck/Pinokio-VideoPolish-er)
 
-### Agents
+### Agents [![Ollama](https://img.shields.io/badge/Ollama-D97757?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 
 - 🤖 [Vulntest AI Agent](https://github.com/C0m3b4ck/Vulntest-AI-Agent) - an AI agent for cybersecurity, with Ollama and config-based variants
 
 ## Desktop Applications
 
-### C++ (Windows & Linux)
+### C++ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 - 🔍 [ShelfSight](https://github.com/C0m3b4ck/ShelfSight) - a C++ library management app, prioritizing efficiency, safety, and legacy support
 - 🛡️ [SentinelXP](https://github.com/C0m3b4ck/SentinelXP) - an antivirus in C++, prioritizing Windows XP
 - 🔪 [MartSkinchanger](https://github.com/C0m3b4ck/MartSkinChanger) - a knife skinchanger for Counter-Strike 1.6
 - 📺 [Decoder Malfunction Simulator](https://github.com/C0m3b4ck/Decoder-Malfunction-Simulator) - a GUI simulator of different decoder functions, malfunctions, and fixes
 
-### Visual Basic 6 (Windows 95 - Windows 11)
+### Visual Basic 6 [![VB6](https://img.shields.io/badge/Visual_Basic_6-5C2D91?style=flat)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa240822(v=vs.60))[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 - 📘 [Bookworm: Visual Basic](https://github.com/C0m3b4ck/Bookworm-VisualBasic) - an implementation of Bookworm in VB6
 - 💿 [Discworm](https://github.com/C0m3b4ck/Discworm) - a program for playing .mp3 and .exe files in VB6
@@ -70,12 +63,12 @@ Pinokio 1-click installs:
 
 ## CLI Tools & Scripts
 
-### C++
+### C++ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
 - 🎵 [MP3 Player Linux](https://github.com/C0m3b4ck/MP3-Player-Linux/) - a C++ MP3 player for Linux
 - ♟️ [PickleBot](https://github.com/C0m3b4ck/PickleBot) - a C++ CLI chess bot using various algorithms and evaluations, without heavy ML models
 
-### Python
+### Python [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 - 👻 [PhantomKeysFix](https://github.com/C0m3b4ck/Phantom-Keys-Fix) - a fix for keyboards with duplicate key inputs
 - 🧠 [PythonQuiz](https://github.com/C0m3b4ck/PythonQuiz) - a simple script that asks different, randomized questions
@@ -90,18 +83,18 @@ Pinokio 1-click installs:
 - 🗃️ [Mass Media Downloader](https://github.com/C0m3b4ck/Mass-Media-Downloader) - a collection of scripts for mass downloading media, currently supports Internet Archive
 - 🐶 [Woofie Postman Magnet Fetcher](https://github.com/C0m3b4ck/Woofie-Postman-Magnet-Fetcher) - a CLI Postman browser for magnet links with i2psnark integration
 
-## Libraries & SDKs
+## Libraries & SDKs [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
 - 📦 [FLTK 1.3.11 Pre-Built](https://github.com/C0m3b4ck/FLTK-1.3.11_Pre-Built) - precompiled FLTK for Windows XP+, Linux x86/x64
 - 📦 [wxWidgets 2.8.8](https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11) - precompiled binaries for Windows 95 to Windows 11 compatibility
 - 📦 [InputLib Win32API](https://github.com/C0m3b4ck/InputLib-Win32API/) - key input library using Win32API calls for Windows 95 to Windows 11
 
-## Game Development
+## Game Development [![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot+engine&logoColor=white)](https://godotengine.org/)
 
 - 🍮 [Scrapfighter](https://github.com/C0m3b4ck/LDGame58) - a Ludum Dare 58 game
 - 🏔️ [Simple Procedural Terrain](https://github.com/C0m3b4ck/godot-simple-procedural-terrain) - a Godot tool for generating procedural terrain from code
 
-## Competitive Programming
+## Competitive Programming [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Szkopuł](https://img.shields.io/badge/Szkopuł-2E8B57?style=flat)](https://szkopul.edu.pl)
 
 - 🏆 [Szkopul Practice](https://github.com/C0m3b4ck/Szkopul-Practice) - solutions for programming exercises from szkopul.pl
 

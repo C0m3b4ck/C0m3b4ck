@@ -48,14 +48,14 @@ Instalacja jednym kliknięciem przez Pinokio:
 
 ## Aplikacje desktopowe
 
-### C++ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+### C++ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)[![Windows+legacy](https://img.shields.io/badge/Windows+legacy-0078D4?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/)
 
 - 🔍 [ShelfSight](https://github.com/C0m3b4ck/ShelfSight) - aplikacja do zarządzania książkami w C++, z naciskiem na wydajność, bezpieczeństwo i starsze systemy
 - 🛡️ [SentinelXP](https://github.com/C0m3b4ck/SentinelXP) - antywirus w C++, z priorytetem dla Windows XP
 - 🔪 [MartSkinchanger](https://github.com/C0m3b4ck/MartSkinChanger) - skinchanger noży do Counter-Strike 1.6
 - 📺 [Decoder Malfunction Simulator](https://github.com/C0m3b4ck/Decoder-Malfunction-Simulator) - symulator GUI różnych funkcji dekodera, usterek i napraw
 
-### Visual Basic 6 [![VB6](https://img.shields.io/badge/Visual_Basic_6-5C2D91?style=flat)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa240822(v=vs.60))[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+### Visual Basic 6 [![VB6](https://img.shields.io/badge/Visual_Basic_6-5C2D91?style=flat)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa240822(v=vs.60))[![Windows+legacy](https://img.shields.io/badge/Windows+legacy-0078D4?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/previous-versions/)
 
 - 📘 [Bookworm: Visual Basic](https://github.com/C0m3b4ck/Bookworm-VisualBasic) - implementacja Bookworm w VB6
 - 💿 [Discworm](https://github.com/C0m3b4ck/Discworm) - program do odtwarzania plików .mp3 i .exe w VB6
@@ -83,7 +83,7 @@ Instalacja jednym kliknięciem przez Pinokio:
 - 🗃️ [Mass Media Downloader](https://github.com/C0m3b4ck/Mass-Media-Downloader) - zestaw skryptów do masowego pobierania mediów, obecnie obsługuje Internet Archive
 - 🐶 [Woofie Postman Magnet Fetcher](https://github.com/C0m3b4ck/Woofie-Postman-Magnet-Fetcher) - CLI Postman do pobierania linków magnetycznych z integracją i2psnark
 
-## Biblioteki i SDK [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+## Biblioteki i SDK [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)[![Windows+legacy](https://img.shields.io/badge/Windows+legacy-0078D4?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
 - 📦 [FLTK 1.3.11 Pre-Built](https://github.com/C0m3b4ck/FLTK-1.3.11_Pre-Built) - wstępnie skompilowane FLTK dla Windows XP+, Linux x86/x64
 - 📦 [wxWidgets 2.8.8](https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11) - wstępnie skompilowane binaria dla kompatybilności Windows 95 do Windows 11

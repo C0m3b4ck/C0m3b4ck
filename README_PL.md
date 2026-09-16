@@ -4,7 +4,14 @@ Aplikacje desktopowe, narzędzia AI/ML i projekty elektroniczne do codziennego u
 
 [🇬🇧 Read in English](https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README.md)
 
-**Elektronika** | **ML i AI** | **Aplikacje desktopowe** | **Narzędzia CLI** | **Biblioteki i SDK** | [Programowanie konkursowe](#programowanie-konkursowe)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)](https://www.kicad.io/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot+engine&logoColor=white)](https://godotengine.org/)
+
+---
 
 ## Elektronika
 
@@ -89,18 +96,10 @@ Instalacja jednym kliknięciem przez Pinokio:
 - 📦 [wxWidgets 2.8.8](https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11) - wstępnie skompilowane binaria dla kompatybilności Windows 95 do Windows 11
 - 📦 [InputLib Win32API](https://github.com/C0m3b4ck/InputLib-Win32API/) - biblioteka wejścia klawiatury z wywołaniami Win32API dla Windows 95 do Windows 11
 
-## Dane
-
-- 🌍 [IP Address Databases](https://github.com/C0m3b4ck/ip-address-databases) - darmowe pełne bazy adresów IP i próbki z www.iplocate.io
-
 ## Tworzenie gier
 
 - 🍮 [Scrapfighter](https://github.com/C0m3b4ck/LDGame58) - gra z Ludum Dare 58
 - 🏔️ [Simple Procedural Terrain](https://github.com/C0m3b4ck/godot-simple-procedural-terrain) - narzędzie Godot do generowania proceduralnego terenu z kodu
-
-## YouTube
-
-- 📼 [PrinterFixer Unlisted Videos](https://github.com/C0m3b4ck/PrinterFixer-UnlistedVideos) - kolekcja niepublicznych filmów z kanału @PrinterFixer
 
 ## Programowanie konkursowe
 

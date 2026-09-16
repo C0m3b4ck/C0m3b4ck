@@ -4,7 +4,14 @@ Desktop apps, machine learning tools, and electronics projects for everyday use.
 
 [🇵🇱 Przeczytaj po polsku](https://github.com/C0m3b4ck/C0m3b4ck/blob/main/README_PL.md)
 
-**Electronics** | **ML & AI** | **Desktop Apps** | **CLI Tools** | **Libraries & SDKs** | [Competitive Programming](#competitive-programming)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)](https://www.kicad.io/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot+engine&logoColor=white)](https://godotengine.org/)
+
+---
 
 ## Electronics
 
@@ -89,18 +96,10 @@ Pinokio 1-click installs:
 - 📦 [wxWidgets 2.8.8](https://github.com/C0m3b4ck/wxWidgets-Win9x-to-Win11) - precompiled binaries for Windows 95 to Windows 11 compatibility
 - 📦 [InputLib Win32API](https://github.com/C0m3b4ck/InputLib-Win32API/) - key input library using Win32API calls for Windows 95 to Windows 11
 
-## Data
-
-- 🌍 [IP Address Databases](https://github.com/C0m3b4ck/ip-address-databases) - free full IP address databases and samples from www.iplocate.io
-
 ## Game Development
 
 - 🍮 [Scrapfighter](https://github.com/C0m3b4ck/LDGame58) - a Ludum Dare 58 game
 - 🏔️ [Simple Procedural Terrain](https://github.com/C0m3b4ck/godot-simple-procedural-terrain) - a Godot tool for generating procedural terrain from code
-
-## YouTube
-
-- 📼 [PrinterFixer Unlisted Videos](https://github.com/C0m3b4ck/PrinterFixer-UnlistedVideos) - a collection of unlisted videos from the @PrinterFixer channel
 
 ## Competitive Programming
 
